@@ -1,4 +1,4 @@
-package com.yikes;
+package com.yikespark;
 
 import org.junit.Test;
 

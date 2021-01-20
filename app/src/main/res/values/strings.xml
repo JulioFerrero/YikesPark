@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Yikes</string>
+    <string name="app_name">YikesPark</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
