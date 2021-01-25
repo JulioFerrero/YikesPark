@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Yikes.iml" filepath="$PROJECT_DIR$/.idea/modules/Yikes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Yikes.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Yikes.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YikesPark.iml" filepath="$PROJECT_DIR$/.idea/modules/YikesPark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/YikesPark.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/YikesPark.app.iml" />
     </modules>
   </component>
 </project>
