@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594979020869",
+    "project_id": "yikespark",
+    "storage_bucket": "yikespark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594979020869:android:761a83181ff364ab97832c",
+        "android_client_info": {
+          "package_name": "com.yikespark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594979020869-5qqnu4hqrm59kl9d21bhpvnnn2m3dii6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoGPxcupAex6_EWXWJ5nHDMPosDbTI0-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594979020869-5qqnu4hqrm59kl9d21bhpvnnn2m3dii6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
